@@ -1,0 +1,54 @@
+@options
+@packages
+-classpath
+'C:/Users/USER/.m2/repository/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar;C:/Users/USER/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar;C:/Users/USER/.m2/repository/com/opencsv/opencsv/5.5/opencsv-5.5.jar;C:/Users/USER/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;C:/Users/USER/.m2/repository/org/apache/commons/commons-text/1.9/commons-text-1.9.jar;C:/Users/USER/.m2/repository/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar;C:/Users/USER/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/USER/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar;C:/Users/USER/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/USER/Documents/NetBeansProjects/PriceTracker/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/USER/Documents/NetBeansProjects/PriceTracker/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PriceTracker 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PriceTracker 1.0-SNAPSHOT API'
+com.mycompany.pricetracker
+C:\Users\USER\.m2\repository\mysql\mysql-connector-java\8.0.30\mysql-connector-java-8.0.30.jar = 1703954703361
+C:\Users\USER\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar = 1703954704147
+C:\Users\USER\.m2\repository\com\opencsv\opencsv\5.5\opencsv-5.5.jar = 1703963734542
+C:\Users\USER\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar = 1698131342600
+C:\Users\USER\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar = 1703963734731
+C:\Users\USER\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar = 1703963734893
+C:\Users\USER\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1703963734580
+C:\Users\USER\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar = 1703963734951
+C:\Users\USER\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar = 1703963734988
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\src\main\java = 1703959256763
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\allclasses-index.html = 1704006068600
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\allpackages-index.html = 1704006068604
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\element-list = 1704006068439
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\help-doc.html = 1704006068636
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\index-all.html = 1704006068628
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\index.html = 1704006068630
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\jquery-ui.overrides.css = 1704006068660
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\member-search-index.js = 1704006068611
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\module-search-index.js = 1704006068606
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\overview-tree.html = 1704006068573
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\package-search-index.js = 1704006068608
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\script.js = 1704006068641
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\search.js = 1704006068644
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\serialized-form.html = 1704006068522
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\stylesheet.css = 1704006068638
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\tag-search-index.js = 1704006068613
+C:\Users\USER\Documents\NetBeansProjects\PriceTracker\target\site\apidocs\type-search-index.js = 1704006068609
